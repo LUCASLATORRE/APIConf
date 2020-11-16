@@ -6,7 +6,7 @@ Para rodar o projeto é necessário o .NET Core SDK 2.2.100 (https://dotnet.micr
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-Crie um banco chamado ConfDB e execute o script abaixo no SQL Server Object Explior para criar a tabela no SQL Server Local DB:
+Crie um banco chamado ConfDB e execute o script abaixo no SQL Server Object Explorer para criar a tabela no SQL Server Local DB:
 
 USE [ConfDB]
 GO
