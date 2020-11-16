@@ -1,6 +1,6 @@
 # APIConf
 
-API Crud de controle de usuários com SQL Server LocalDB.
+CRUD WebAPI .NET Core de controle de usuários com SQL Server LocalDB.
 
 Para rodar o projeto é necessário o .NET Core SDK 2.2.100 (https://dotnet.microsoft.com/download/dotnet-core/2.2).
 
